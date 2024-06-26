@@ -9,6 +9,6 @@ Supplementary Tables S1-S7 for DEWNA
 #### Table S6. The entropy-weighted protein expression table (Online supplementary file).
 #### Table S7. The results encompass all proteins involved in the enriched pathways, as determined by the generalized reporter score-based analysis of the entropy-weighted protein expression table (Online supplementary file).
 
-## A detailed introduction of DEWNA can be found here: [DEWNA](https://github.com/wangshisheng/DEWNA).
+### A detailed introduction of DEWNA can be found here: [DEWNA](https://github.com/wangshisheng/DEWNA).
 
 
