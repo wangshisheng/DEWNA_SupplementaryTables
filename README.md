@@ -1,6 +1,7 @@
 # DEWNA_SupplementaryTables
 Supplementary Tables S1-S7 for DEWNA
 
+### Table S1-S7: Table S1 is test data and Tables S2-S7 are the results obtained through Table S1.
 #### Table S1. All proteins identified in A549 cells with cisplatin-induced damage across 8 time points (0, 3, 6, 9, 12, 18, 24, and 36 h) (Online supplementary file).
 #### Table S2. The activity profiling of different clusters over the 8 time points (Online supplementary file).
 #### Table S3. Entropy weighted expression table of protein hubs derived from the A549 cells with cisplatin-induced damage across 8 time points (Online supplementary file).
